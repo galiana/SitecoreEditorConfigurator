@@ -1,0 +1,77 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>Manageable real fon sizes</PackageName>
+      <Author>Vicent Galiana</Author>
+      <Version>0.1</Version>
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/{A7779C5B-AE60-4886-BE68-CAF30B35BD94}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/1/{6B31DB3C-CE82-4D4F-A49E-ADDAFA3AFFDE}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/10/{6ABA341C-8F63-4566-BC30-A948E03FC702}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/11/{2CFE7F10-A0CC-4F09-8960-1769FA3B681A}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/12/{C229657E-DF38-472F-BC4D-CE517980EDE7}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/13/{3CA1EADD-0277-485E-AE90-AFA458B9FE80}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/14/{E469B77F-B500-4328-8513-92D1FC6C1B04}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/15/{CB8A8D76-A659-413B-B161-F478A1DF83AD}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/16/{D985AB81-1C6C-4C48-B2A4-F99EEEE356C7}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/17/{5672B200-28AB-4C75-BBF7-21604F03ABBE}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/18/{F0DE6ACC-06F7-4B4E-8456-716CEB313DA7}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/2/{4D759503-FC74-4FED-9A16-A6C6A65BEC6B}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/3/{E19F76BA-EC5E-44AE-A887-17AF3AF24719}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/4/{87CE44D1-BA30-4C87-807A-D834DF0D5BB6}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/5/{D7DB623C-6073-40B7-985A-6EE33EF92C83}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/6/{AE006555-207F-4524-B239-97CD1FE0F5CD}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/60/{B9259DB1-A663-427E-99A5-0762407EC167}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/7/{A9C6F8B0-1FC3-4FA3-A275-2A5E92246CC0}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/8/{BF7E0EEE-132B-420C-8541-17DC15833734}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Real Font Sizes/9/{CD476207-244A-4220-80DE-BE883D38D687}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Toolbar 3/Font Size/{7D696046-8C66-48AB-892C-1C17C3D35746}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Items</Name>
+    </xitems>
+    <xfiles>
+      <Entries>
+        <x-item>/App_Config/Include/Galiana/Settings.config</x-item>
+        <x-item>/bin/Galiana.SitecoreEditorConfigurator.dll</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>

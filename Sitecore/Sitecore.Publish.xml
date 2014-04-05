@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Sitecore Instance Manager\Sites\securinglucene\Website" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Sitecore.Kernel.dll" publishTime="05/29/2013 15:16:56" />
+    <file relUrl="bin/Galiana.SitecoreEditorConfigurator.pdb" publishTime="04/05/2014 20:01:09" />
+    <file relUrl="bin/Sitecore.dll" publishTime="04/05/2014 20:01:09" />
+    <file relUrl="App_Config/Include/Galiana/Settings.config" publishTime="04/05/2014 17:43:22" />
+    <file relUrl="bin/Sitecore.pdb" publishTime="04/05/2014 20:01:09" />
+    <file relUrl="bin/Telerik.Web.UI.dll" publishTime="05/29/2013 15:17:28" />
+    <file relUrl="bin/Sitecore.Client.dll" publishTime="05/29/2013 15:16:56" />
+    <file relUrl="bin/Galiana.SitecoreEditorConfigurator.dll" publishTime="04/05/2014 20:01:09" />
+  </publishProfile>
+</publishData>
